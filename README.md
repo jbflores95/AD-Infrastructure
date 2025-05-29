@@ -11,7 +11,7 @@ This guide walks through setting up an Active Directory environment in Azure. We
 
 <h2>Prerequisites</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+- ### [Creating a Virtual Machine from scratch](https://github.com/jbflores95/Virtual-machine)
 
 <h2>Environments and Technologies Used</h2>
 
